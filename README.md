@@ -6,3 +6,9 @@
 
 2) [Promises](https://repl.it/@king_tomiiide/Promises)
 
+3) [Iterator](https://repl.it/@Oluwakemi/IteratorSample)
+
+4) [Generator](https://repl.it/@Oluwakemi/generatorSample)
+
+
+
